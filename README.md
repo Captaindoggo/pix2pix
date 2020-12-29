@@ -3,7 +3,7 @@ This repository contains implementation of Conditional GAN model for images moda
 
 Good pi2pix datasets can be downloaded from [here](http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/) (train.py already contains code for downloading facades/maps datasets)
 
-pix2pix_facades.ipynb contains training on facades dataset for 800 epochs
+pix2pix_facades.ipynb contains training on facades dataset for 800 + 200 epochs
 
 Train:
 
