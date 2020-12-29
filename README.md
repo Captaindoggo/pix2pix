@@ -5,4 +5,4 @@ Good pi2pix datasets can be downloaded from [here](http://efrosgans.eecs.berkele
 
 pix2pix_facades.ipynb contains training on facades dataset for 800 epochs
 
-[Train:](/Users/timofeysenchenko/Downloads/train_facades.jpg)
+[Train:]
