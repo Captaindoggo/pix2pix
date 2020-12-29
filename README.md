@@ -8,3 +8,6 @@ pix2pix_facades.ipynb contains training on facades dataset for 800 epochs
 Train:
 
 ![train_facades](https://user-images.githubusercontent.com/44977318/103275657-b6488600-49d5-11eb-9fd0-d30b89b5f0e8.jpg)
+
+Good examples:
+
